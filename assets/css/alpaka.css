@@ -53,3 +53,16 @@ a i {
      font-size: 15pt;
   margin-right: 10pt;
 }
+
+
+@media only screen and (max-width : 768px) {
+  .navbar-collapse {
+    background: #222529;
+  }
+
+}
+
+
+.pt-6 {
+  padding-top: 5rem !important;
+}
